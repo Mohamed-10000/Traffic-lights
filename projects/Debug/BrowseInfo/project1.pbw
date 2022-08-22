@@ -1,0 +1,30 @@
+[
+  {
+    "ID": "c:@a",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "a",
+    "location": {
+      "column": "15",
+      "line": "3",
+      "path": "D:\\Projects\\CSE 211\\Not\\lab8 (2)\\projects\\main.c"
+    },
+    "name": "a",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@main",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int main(void)",
+    "location": {
+      "column": "5",
+      "line": "5",
+      "path": "D:\\Projects\\CSE 211\\Not\\lab8 (2)\\projects\\main.c"
+    },
+    "name": "main",
+    "origin": "project_file",
+    "scope": null
+  }
+]

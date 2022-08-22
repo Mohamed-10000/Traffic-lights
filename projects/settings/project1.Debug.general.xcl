@@ -1,0 +1,15 @@
+"D:\Programs\IAR\arm\bin\armPROC.dll" 
+
+"D:\Programs\IAR\arm\bin\armLMIFTDI.dll" 
+
+"D:\Projects\CSE 211\Not\lab8 (2)\projects\Debug\Exe\project1.out" 
+
+--plugin="D:\Programs\IAR\arm\bin\armbat.dll" 
+
+--device_macro="D:\Programs\IAR\arm\config\debugger\TexasInstruments\TM4C123.dmac" 
+
+--flash_loader="D:\Programs\IAR\arm\config\flashloader\TexasInstruments\FlashTC4_H6_o.board" 
+
+
+
+

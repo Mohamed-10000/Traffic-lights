@@ -1,0 +1,8 @@
+D:\Projects\CSE\ 211\Not\lab8\ (2)\projects\Debug\BrowseInfo\startup_ewarm.pbi: \
+  D:\Projects\CSE\ 211\Not\lab8\ (2)\projects\startup_ewarm.c \
+  D:\Programs\IAR\arm\inc\c\stdint.h D:\Programs\IAR\arm\inc\c\ycheck.h \
+  D:\Programs\IAR\arm\inc\c\yvals.h \
+  D:\Programs\IAR\arm\inc\c\DLib_Defaults.h \
+  D:\Programs\IAR\arm\inc\c\DLib_Config_Normal.h \
+  D:\Programs\IAR\arm\inc\c\DLib_Product.h \
+  D:\Programs\IAR\Tiva\inc/hw_nvic.h D:\Programs\IAR\Tiva\inc/hw_types.h
